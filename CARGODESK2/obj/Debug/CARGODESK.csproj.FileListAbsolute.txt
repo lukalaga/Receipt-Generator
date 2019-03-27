@@ -1,0 +1,92 @@
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.Properties.Resources.resources
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.csproj.GenerateResource.cache
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.csproj.CoreCompileInputs.cache
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CARGODESK.exe.config
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CARGODESK.exe
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CARGODESK.pdb
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.exe
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.pdb
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.RepairsDelivery.resources
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.MonthlyMaintenance.resources
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\Dapper.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\Dapper.xml
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.Invoice.resources
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.csproj.CopyComplete
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.csprojAssemblyReference.cache
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\log4net.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\log4net.xml
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.Dashboard.resources
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\FlashControlV71.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\bin\Debug\stdole.dll
+C:\Users\Self Help\Desktop\CARGO\CARGODESK\obj\Debug\CARGODESK.PrintRepair.resources
+H:\CARGODESK\bin\Debug\CARGODESK.exe.config
+H:\CARGODESK\obj\Debug\CARGODESK.exe
+H:\CARGODESK\obj\Debug\CARGODESK.pdb
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CargoDatabase.mdf
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CargoDatabase_log.ldf
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CARGODESK.exe.config
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CARGODESK.exe
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CARGODESK.pdb
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\Dapper.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\log4net.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\stdole.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\Dapper.xml
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\log4net.xml
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.Dashboard.resources
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.Invoice.resources
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.MonthlyMaintenance.resources
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.Properties.Resources.resources
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.RepairsDelivery.resources
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.csproj.GenerateResource.cache
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.csproj.CopyComplete
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.exe
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.pdb
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\bin\Debug\FlashControlV71.dll
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.Form1.resources
+C:\Users\james\OneDrive\Desktop\CARGODESK\obj\Debug\CARGODESK.printReport.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CargoDatabase.mdf
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CargoDatabase_log.ldf
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CARGODESK.exe.config
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CARGODESK.exe
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CARGODESK.pdb
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\Dapper.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\Dapper.xml
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.Dashboard.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.Invoice.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.MonthlyMaintenance.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.printReport.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.Properties.Resources.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.RepairsDelivery.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.csproj.GenerateResource.cache
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.csproj.CoreCompileInputs.cache
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.csproj.CopyComplete
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.exe
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.pdb
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.csprojAssemblyReference.cache
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\log4net.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\log4net.xml
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\FlashControlV71.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\bin\Debug\stdole.dll
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.AboutUs.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.frmLogin.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.Join.resources
+C:\Users\Cazenter A Lukalaga\Desktop\CARGODESK2\obj\Debug\CARGODESK.frmSplashScreen.resources
